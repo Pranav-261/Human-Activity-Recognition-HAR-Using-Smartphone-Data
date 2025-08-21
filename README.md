@@ -56,7 +56,7 @@ WALKING_DOWNSTAIRS       0.97      0.86      0.91       420
 
 The confusion matrix below provides a visual representation of the model's predictions versus the actual labels:
 
-*(Optional: Add a screenshot of your confusion matrix image here!)*
+<img width="940" height="852" alt="image" src="https://github.com/user-attachments/assets/144de643-d32e-4e41-8d92-76ae5196f075" />
 
 ---
 
