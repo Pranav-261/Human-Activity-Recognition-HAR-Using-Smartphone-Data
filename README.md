@@ -37,7 +37,7 @@ The model achieved an overall **accuracy of 93%** on the test set.
 The performance across different activities was excellent, as shown in the classification report:
 '''
                     precision    recall  f1-score   support
-
+'''
            WALKING       0.89      0.97      0.93       496
   WALKING_UPSTAIRS       0.88      0.89      0.89       471
 WALKING_DOWNSTAIRS       0.97      0.86      0.91       420
@@ -47,8 +47,8 @@ WALKING_DOWNSTAIRS       0.97      0.86      0.91       420
           accuracy                           0.93      2947
          macro avg       0.93      0.92      0.92      2947
       weighted avg       0.93      0.93      0.93      2947
-
 '''
+
 **Key Insights:**
 *   The model is exceptionally good at identifying `LAYING` with 100% precision and recall.
 *   It performs very well in distinguishing between static (`SITTING`, `STANDING`, `LAYING`) and dynamic activities (`WALKING` types).
