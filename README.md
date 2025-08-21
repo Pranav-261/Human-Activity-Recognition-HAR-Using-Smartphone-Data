@@ -1,6 +1,6 @@
 # Human Activity Recognition (HAR) Using Smartphone Data
 
-![Project Banner](https://user-images.githubusercontent.com/10298151/183120159-e7018765-17c3-4158-b525-55d9620b12a2.png)
+![Project Banner](https://www.globalsign.com/application/files/9516/2287/1896/IoT_data_streams_and_device_identity.jpg)
 
 ## 1. Project Overview
 
