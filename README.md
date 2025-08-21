@@ -1,7 +1,5 @@
 # Human Activity Recognition (HAR) Using Smartphone Data
 
-![Project Banner](https://user-images.githubusercontent.com/26465329/181395254-41b347c6-3023-4621-9351-24423b40ebb3.png)
-
 
 ## 1. Project Overview
 
@@ -46,10 +44,9 @@ WALKING_DOWNSTAIRS       0.97      0.86      0.91       420
            SITTING       0.91      0.90      0.90       491
           STANDING       0.91      0.92      0.91       532
             LAYING       1.00      1.00      1.00       537
-
-          accuracy                           0.93      2947
+         accuracy                           0.93      2947
          macro avg       0.93      0.92      0.92      2947
-      weighted avg       0.93      0.93      0.93      2947
+        weighted avg       0.93      0.93      0.93      2947
 
 
 **Key Insights:**
