@@ -1,6 +1,5 @@
 # Human Activity Recognition (HAR) Using Smartphone Data
 
-![Project Banner](https://miro.medium.com/v2/resize:fit:1400/1*23sV2ol_V2S3ma2292i4VA.jpeg)
 
 ## 1. Project Overview
 
